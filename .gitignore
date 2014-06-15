@@ -1,0 +1,12 @@
+# Created by http://www.gitignore.io
+target/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
