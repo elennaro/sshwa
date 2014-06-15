@@ -32,7 +32,7 @@ public class AppController {
 	public ModelAndView adminPage() {
 
 		ModelAndView model = new ModelAndView();
-		model.addObject("title", "Spring Security 3.2.3 Hello World");
+		model.addObject("title", "Spring Security 3.2.4 Hello World Tutorial");
 		model.addObject("message", "This is confidential page - Need Super Admin Role!");
 		model.setViewName("protected");
 
