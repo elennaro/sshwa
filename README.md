@@ -1,7 +1,5 @@
-sshwa
+Spring Security Hello World Java Config Tutorial
 =====
-
-Spring Security Hello World Tutorial
 
 This is Spring Security Hello Word Java Config tutorial.
 
